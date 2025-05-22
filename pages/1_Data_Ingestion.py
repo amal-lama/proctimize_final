@@ -7,7 +7,7 @@ import io
 import json
 import time
 from datetime import datetime,timedelta
-from azure.storage.blob import BlobServiceClient, ContentSettings
+
 
 # Helper functions
 
